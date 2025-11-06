@@ -1,7 +1,4 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{https://github.com/cooleditingx}/count.svg" alt="Visitor's Count" />
-</div>
+  [![HitCount](https://hits.dwyl.com/cooleditingx/{project}.svg?style=flat-square)](http://hits.dwyl.com/cooleditingx/{project})
 
 <!--
 **cooleditingx/cooleditingx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
