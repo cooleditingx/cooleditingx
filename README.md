@@ -1,4 +1,4 @@
-  [![HitCount](https://hits.dwyl.com/cooleditingx/{project}.svg?style=flat-square)](http://hits.dwyl.com/cooleditingx/{project})
+  [![HitCount](https://hits.dwyl.com/cooleditingx/{project}.svg?style=flat-square&show=unique)](http://hits.dwyl.com/cooleditingx/{project})
 
 <!--
 **cooleditingx/cooleditingx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
